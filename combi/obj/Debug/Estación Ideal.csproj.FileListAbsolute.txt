@@ -1,0 +1,31 @@
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\bin\Debug\combi.exe.config
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\bin\Debug\combi.exe.manifest
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\bin\Debug\combi.application
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\bin\Debug\combi.exe
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\bin\Debug\combi.pdb
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\Estación Ideal.csprojAssemblyReference.cache
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\Estación Ideal.csproj.ResolveComReference.cache
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form3M.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form3.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form2.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form2M.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form1M.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form4M.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form6M.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form5M.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form5.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form6.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form4.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form7M.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form7.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Datos.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Form1.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Principal.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.Properties.Resources.resources
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\Estación Ideal.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.exe.manifest
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.application
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\Estación Ideal.csproj.CopyComplete
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.exe
+C:\Users\erick\Desktop\combi folder\Estación Ideal\combi\obj\Debug\combi.pdb

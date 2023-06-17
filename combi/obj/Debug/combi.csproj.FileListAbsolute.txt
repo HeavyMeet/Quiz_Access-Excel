@@ -1,0 +1,219 @@
+\\stnafsano001.us164.corpintra.net\h141\erireal\data\my documents\visual studio 2013\Projects\combi\combi\bin\Debug\combi.exe.config
+\\stnafsano001.us164.corpintra.net\h141\erireal\data\my documents\visual studio 2013\Projects\combi\combi\bin\Debug\combi.exe
+\\stnafsano001.us164.corpintra.net\h141\erireal\data\my documents\visual studio 2013\Projects\combi\combi\bin\Debug\combi.pdb
+\\stnafsano001.us164.corpintra.net\h141\erireal\data\my documents\visual studio 2013\Projects\combi\combi\obj\Debug\combi.Form1.resources
+\\stnafsano001.us164.corpintra.net\h141\erireal\data\my documents\visual studio 2013\Projects\combi\combi\obj\Debug\combi.Properties.Resources.resources
+\\stnafsano001.us164.corpintra.net\h141\erireal\data\my documents\visual studio 2013\Projects\combi\combi\obj\Debug\combi.csproj.GenerateResource.Cache
+\\stnafsano001.us164.corpintra.net\h141\erireal\data\my documents\visual studio 2013\Projects\combi\combi\obj\Debug\combi.exe
+\\stnafsano001.us164.corpintra.net\h141\erireal\data\my documents\visual studio 2013\Projects\combi\combi\obj\Debug\combi.pdb
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\my documents\visual studio 2013\Projects\combi\combi\obj\Debug\combi.Form2.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\my documents\visual studio 2013\Projects\combi\combi\obj\Debug\combi.Form3.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\my documents\visual studio 2013\Projects\combi\combi\obj\Debug\combi.Form4.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\my documents\visual studio 2013\Projects\combi\combi\obj\Debug\combi.Form5.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\my documents\visual studio 2013\Projects\combi\combi\obj\Debug\combi.Form7.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\Visual Studio 2013\Projects\combi\combi\obj\Debug\combi.Form11.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\Visual Studio 2013\Projects\combi\combi\bin\Debug\Tulpep.NotificationWindow.dll
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\Visual Studio 2013\Projects\combi\combi\obj\Debug\combi.csprojResolveAssemblyReference.cache
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\Visual Studio 2013\Projects\combi\combi\obj\Debug\combi.Form66.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\Visual Studio 2013\Projects\combi\combi\obj\Debug\combi.Form1a.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\my documents\visual studio 2013\Projects\combi\combi\obj\Debug\combi.Form10.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\bin\Debug\combi.exe.config
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.exe
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.pdb
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\bin\Debug\combi.exe
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\bin\Debug\combi.pdb
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.csprojResolveAssemblyReference.cache
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.Form10.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.Form1a.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.Form11.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.Form66.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.Form2.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.Form7.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.Form5.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.Form1.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.Form3.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.Form4.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.Properties.Resources.resources
+C:\Users\ERIREAL\Desktop\respaldos\combi\combi\obj\Debug\combi.csproj.GenerateResource.Cache
+C:\Users\ERIREAL\Desktop\combi\combi\bin\Debug\combi.exe.config
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.exe
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.pdb
+C:\Users\ERIREAL\Desktop\combi\combi\bin\Debug\combi.exe
+C:\Users\ERIREAL\Desktop\combi\combi\bin\Debug\combi.pdb
+C:\Users\ERIREAL\Desktop\combi\combi\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.csprojResolveAssemblyReference.cache
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.Form10.resources
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.Form1a.resources
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.Form11.resources
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.Form66.resources
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.Form2.resources
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.Form7.resources
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.Form5.resources
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.Form1.resources
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.Form3.resources
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.Form4.resources
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.Properties.Resources.resources
+C:\Users\ERIREAL\Desktop\combi\combi\obj\Debug\combi.csproj.GenerateResource.Cache
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\bin\Debug\combi.exe.config
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.exe
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.pdb
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\bin\Debug\combi.exe
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\bin\Debug\combi.pdb
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\bin\Debug\Tulpep.NotificationWindow.dll
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.csprojResolveAssemblyReference.cache
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form10.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form11aC.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form11a.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form1aC.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form1aa.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form1a.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form11.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form2C.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form5C.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form6.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form66C.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form2.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form7C.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form7.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form5.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form1.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form3.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form4.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Properties.Resources.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.csproj.GenerateResource.Cache
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form11b.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form7b.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form11ab.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form66b.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form5b.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form2b.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form7bC.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form11abC.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form11bC.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form2bC.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form5bC.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form66bC.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\combi folder\combi\combi\obj\Debug\combi.Form1abC.resources
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\respaldo combi folder\combi\combi\bin\Debug\combi.exe.config
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\respaldo combi folder\combi\combi\obj\Debug\combi.exe
+\\stnafsano001.us164.corpintra.net\h141\ERIREAL\Data\My Documents\desktop\respaldo combi folder\combi\combi\obj\Debug\combi.pdb
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\bin\Debug\combi.exe.config
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\bin\Debug\combi.exe.manifest
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\bin\Debug\combi.application
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\bin\Debug\combi.exe
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\bin\Debug\combi.pdb
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form10.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form11abC.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form11aC.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form11ab.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form11.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form11bC.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form1abC.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form2bC.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form5bC.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form66bC.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form66b.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form5b.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form2b.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form11a.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form11b.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form7bC.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form7b.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form1aC.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form1aa.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form1a.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form2C.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form5C.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form6.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form66C.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form2.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form7C.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form7.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form5.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form1.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form3.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Form4.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.Properties.Resources.resources
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.csproj.GenerateResource.Cache
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.exe.manifest
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.application
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.exe
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.pdb
+C:\Users\ERIREAL\Desktop\combi folder\combi\combi\obj\Debug\combi.csprojResolveAssemblyReference.cache
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\bin\Debug\combi.exe.config
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.exe
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.pdb
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\bin\Debug\combi.exe.manifest
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\bin\Debug\combi.application
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\bin\Debug\combi.exe
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\bin\Debug\combi.pdb
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.csprojResolveAssemblyReference.cache
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form10.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form11abC.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form11aC.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form11ab.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form11.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form11bC.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form1abC.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form2bC.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form5bC.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form66bC.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form66b.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form5b.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form2b.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form11a.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form11b.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form7bC.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form7b.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form1aC.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form1aa.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form1a.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form2C.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form5C.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form6.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form66C.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form2.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form7C.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form7.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form5.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form1.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form3.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Form4.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.Properties.Resources.resources
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.csproj.GenerateResource.Cache
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.exe.manifest
+C:\Users\ERIREAL\Desktop\pharma\combi folder\combi\combi\obj\Debug\combi.application
+C:\Users\erick\Desktop\combi folder\combi\combi\bin\Debug\combi.exe.config
+C:\Users\erick\Desktop\combi folder\combi\combi\bin\Debug\combi.exe.manifest
+C:\Users\erick\Desktop\combi folder\combi\combi\bin\Debug\combi.application
+C:\Users\erick\Desktop\combi folder\combi\combi\bin\Debug\combi.exe
+C:\Users\erick\Desktop\combi folder\combi\combi\bin\Debug\combi.pdb
+C:\Users\erick\Desktop\combi folder\combi\combi\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form6.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form2.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form7.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form5.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Properties.Resources.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.exe.manifest
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.application
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.csproj.CopyComplete
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.exe
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.pdb
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Principal.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form3M.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form3.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form2M.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form1M.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form4M.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form6M.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form5M.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form4.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form7M.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Form1.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Datos.resources
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.csproj.ResolveComReference.cache
+C:\Users\erick\Desktop\combi folder\combi\combi\obj\Debug\combi.Dats.resources
